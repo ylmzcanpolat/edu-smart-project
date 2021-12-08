@@ -82,3 +82,5 @@ To see the project in action, visit: [Project home page](https://edu-smart-appli
  username: student@gmail.com, password: 123456
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+#### The template of the project has been downloaded for free from https://html.design/download/smartedu-education-template/
